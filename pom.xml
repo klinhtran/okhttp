@@ -500,7 +500,7 @@
       <properties>
         <alpn.jdk8.version>8.1.12.v20180117</alpn.jdk8.version>
       </properties>
-    </profile>
+    </profile>
   </profiles>
 </project>
 
